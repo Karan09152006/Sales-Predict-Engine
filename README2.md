@@ -467,6 +467,23 @@ Place your dashboard screenshots inside the **images/** folder.
 
 ---
 
+# 🌐 Live Demo
+
+Experience the interactive dashboard here:
+
+[![Open Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retail-sales-dashboard.streamlit.app/)
+
+### Features Available
+
+- 📊 Interactive Sales Dashboard
+- 📈 Sales Forecasting
+- 🚨 Anomaly Detection
+- 📦 Product Demand Segmentation
+- 📉 Business Insights
+- 🔍 Interactive Filters
+
+---
+
 # 💡 Business Insights
 
 The analysis generated several valuable business insights.
