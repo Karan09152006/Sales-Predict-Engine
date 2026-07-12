@@ -467,7 +467,7 @@ Place your dashboard screenshots inside the **images/** folder.
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 Experience the interactive dashboard here:
 
