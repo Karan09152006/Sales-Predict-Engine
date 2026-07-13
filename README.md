@@ -203,7 +203,7 @@ The project contains multiple visualizations to better understand business perfo
 ## 📊 Monthly Sales Trend
 
 ```markdown
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Monthly%20Sales.png)
 ```
 
 ---
@@ -211,7 +211,7 @@ The project contains multiple visualizations to better understand business perfo
 ## 🌍 Regional Sales Analysis
 
 ```markdown
-![Regional Sales](images/regional_sales.png)
+![Region wise sales growth](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Region-wise%20Sales%20Growth.png)
 ```
 
 ---
@@ -219,23 +219,7 @@ The project contains multiple visualizations to better understand business perfo
 ## 🛒 Category-wise Sales
 
 ```markdown
-![Category Sales](images/category_sales.png)
-```
-
----
-
-## 📦 Sub-Category Sales
-
-```markdown
-![Subcategory Sales](images/subcategory_sales.png)
-```
-
----
-
-## 📉 Profit Analysis
-
-```markdown
-![Profit Analysis](images/profit_analysis.png)
+![Category Sales](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Sales%20by%20Category.png)
 ```
 
 ---
@@ -243,23 +227,7 @@ The project contains multiple visualizations to better understand business perfo
 ## 📈 Time Series Decomposition
 
 ```markdown
-![Time Series](images/time_series.png)
-```
-
----
-
-## 📊 Sales Forecast
-
-```markdown
-![Forecast](images/forecast.png)
-```
-
----
-
-## 🚨 Anomaly Detection
-
-```markdown
-![Anomaly Detection](images/anomaly_detection.png)
+![Time Series](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/time_series_decomposition.png)
 ```
 
 ---
@@ -267,7 +235,7 @@ The project contains multiple visualizations to better understand business perfo
 ## 📦 Product Demand Segmentation
 
 ```markdown
-![Clustering](images/clustering.png)
+![Clustering](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/product_clusters_chart.png)
 ```
 
 ---
@@ -431,6 +399,24 @@ The Streamlit dashboard provides an interactive interface for business users.
 
 ---
 
+## 🌐 Live Demo
+
+Experience the interactive dashboard here:
+
+[![Open Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retail-sales-dashbo-g8tz6mst5chm7vjvpbh4hv.streamlit.app/)
+
+### Features Available
+
+- 📊 Interactive Sales Dashboard
+- 📈 Sales Forecasting
+- 🚨 Anomaly Detection
+- 📦 Product Demand Segmentation
+- 📉 Business Insights
+- 🔍 Interactive Filters
+
+  
+---
+
 # 📷 Dashboard Preview
 
 Place your dashboard screenshots inside the **images/** folder.
@@ -467,22 +453,6 @@ Place your dashboard screenshots inside the **images/** folder.
 
 ---
 
-## 🌐 Live Demo
-
-Experience the interactive dashboard here:
-
-[![Open Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retail-sales-dashboard.streamlit.app/)
-
-### Features Available
-
-- 📊 Interactive Sales Dashboard
-- 📈 Sales Forecasting
-- 🚨 Anomaly Detection
-- 📦 Product Demand Segmentation
-- 📉 Business Insights
-- 🔍 Interactive Filters
-
----
 
 # 💡 Business Insights
 
