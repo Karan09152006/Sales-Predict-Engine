@@ -202,41 +202,31 @@ The project contains multiple visualizations to better understand business perfo
 
 ## 📊 Monthly Sales Trend
 
-```markdown
 ![Monthly Sales](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Monthly%20Sales.png)
-```
 
 ---
 
 ## 🌍 Regional Sales Analysis
 
-```markdown
 ![Region wise sales growth](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Region-wise%20Sales%20Growth.png)
-```
 
 ---
 
 ## 🛒 Category-wise Sales
 
-```markdown
 ![Category Sales](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/Sales%20by%20Category.png)
-```
 
 ---
 
 ## 📈 Time Series Decomposition
 
-```markdown
 ![Time Series](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/time_series_decomposition.png)
-```
 
 ---
 
 ## 📦 Product Demand Segmentation
 
-```markdown
 ![Clustering](https://github.com/Karan09152006/Sales-Predict-Engine/blob/95374b40f1ecfbe477affe4619c37bebf42701de/charts/product_clusters_chart.png)
-```
 
 ---
 
@@ -508,7 +498,7 @@ Retail-Sales-Intelligence-Dashboard/
 ├── requirements.txt
 ├── train.csv
 │
-├── images/
+├── charts/
 │   ├── dashboard.png
 │   ├── monthly_sales.png
 │   ├── regional_sales.png
