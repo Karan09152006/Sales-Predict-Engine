@@ -411,35 +411,27 @@ Experience the interactive dashboard here:
 
 Place your dashboard screenshots inside the **images/** folder.
 
-## Main Dashboard
+## Sales Overview Dashboard
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Sales Overview Dashboard](https://github.com/Karan09152006/Sales-Predict-Engine/blob/35ff4251a02cf0dcd41a6f94b5c0037c28814337/Streamlit%20Dashboard%20Preview/1.%20Sales%20Overview.png)
 
 ---
 
-## Forecast Dashboard
+## Forecast Explorer Dashboard
 
-```markdown
-![Forecast Dashboard](images/forecast_dashboard.png)
-```
+![Forecast Explorer Dashboard](https://github.com/Karan09152006/Sales-Predict-Engine/blob/35ff4251a02cf0dcd41a6f94b5c0037c28814337/Streamlit%20Dashboard%20Preview/2.%20Forest%20Explorer.png)
 
 ---
 
-## Anomaly Detection Dashboard
+## Anomaly Report Dashboard
 
-```markdown
-![Anomaly Dashboard](images/anomaly_dashboard.png)
-```
+![Anomaly Report Dashboard](https://github.com/Karan09152006/Sales-Predict-Engine/blob/35ff4251a02cf0dcd41a6f94b5c0037c28814337/Streamlit%20Dashboard%20Preview/3.%20Anomaly%20Report.png)
 
 ---
 
-## Product Segmentation Dashboard
+## Product Demand Segmentation Dashboard
 
-```markdown
-![Segmentation Dashboard](images/segmentation_dashboard.png)
-```
+![Product Demand Segmentation Dashboard](https://github.com/Karan09152006/Sales-Predict-Engine/blob/35ff4251a02cf0dcd41a6f94b5c0037c28814337/Streamlit%20Dashboard%20Preview/4.%20Product%20Demand%20Segments.png)
 
 ---
 
@@ -490,7 +482,7 @@ The project demonstrates how Machine Learning can support retail organizations i
 # 📁 Project Structure
 
 ```text
-Retail-Sales-Intelligence-Dashboard/
+Sales Predict Engine/
 │
 ├── app.py
 ├── analysis.ipynb
@@ -499,23 +491,20 @@ Retail-Sales-Intelligence-Dashboard/
 ├── train.csv
 │
 ├── charts/
-│   ├── dashboard.png
-│   ├── monthly_sales.png
-│   ├── regional_sales.png
-│   ├── category_sales.png
-│   ├── subcategory_sales.png
-│   ├── profit_analysis.png
-│   ├── time_series.png
-│   ├── forecast.png
-│   ├── forecast_dashboard.png
-│   ├── anomaly_detection.png
-│   ├── anomaly_dashboard.png
-│   ├── clustering.png
-│   └── segmentation_dashboard.png
-│
-└── models/
-    ├── forecasting_model.pkl
-    └── clustering_model.pkl
+    ├── dashboard.png
+    ├── monthly_sales.png
+    ├── regional_sales.png
+    ├── category_sales.png
+    ├── subcategory_sales.png
+    ├── profit_analysis.png
+    ├── time_series.png
+    ├── forecast.png
+    ├── forecast_dashboard.png
+    ├── anomaly_detection.png
+    ├── anomaly_dashboard.png
+    ├── clustering.png
+    └── segmentation_dashboard.png
+
 ```
 
 ---
@@ -590,24 +579,11 @@ Future enhancements for this project include:
 
 # 👨‍💻 Author
 
-## Dharmendra Chhapola
+## Karan Singh Chauhan 
 
-**Artificial Intelligence & Data Science Student**
+## B.Tech CSE (Artificial Intelligence and Data Science)
 
-📍 Jaipur, Rajasthan, India
-
-📧 dharmendrachhapola@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/dharmendra-singh-chhapola-14907628a/
-
-💻 GitHub: https://github.com/yourusername
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
+## RIET Jaipur
 ---
 
 # ⭐ Support
